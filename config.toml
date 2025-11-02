@@ -6,6 +6,12 @@ theme = "shibui"
 [params]
   author = "Alex Martins"
   email = "hello@alexmartins.work"
+  mainSections = ["posts"]
+
+[permalinks]
+  posts  = "/posts/:slug/"
+  poemas = "/poemas/:slug/"
+
 
 [menu]
   [[menu.main]]
@@ -13,6 +19,10 @@ theme = "shibui"
     url = "/posts/"
     weight = 1
   [[menu.main]]
+  name = "Poemas"
+  url = "/poemas/"
+  weight = 2
+  [[menu.main]]
     name = "About"
     url = "/about/"
-    weight = 2
+    weight = 3
