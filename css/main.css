@@ -293,6 +293,11 @@ h5 > code {
   color: var(--color-text-muted);
 }
 
+.path-nav li h1 {
+    font-family: var(--font-family-h);
+
+}
+
 .path-nav li.current a {
   color: var(--color-text-primary);
   font-weight: bold;
