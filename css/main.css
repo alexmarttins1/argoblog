@@ -104,6 +104,11 @@ html {
   height: 100%;
 }
 
+main h1 {
+font-family: var(--font-family-h) !important;
+
+}
+
 body {
   font: var(--font-size-base) / var(--spacing-base) var(--font-family-b);
   background: var(--color-bg-primary);
@@ -293,10 +298,6 @@ h5 > code {
   color: var(--color-text-muted);
 }
 
-.path-nav li h1 {
-    font-family: var(--font-family-h);
-
-}
 
 .path-nav li.current a {
   color: var(--color-text-primary);
