@@ -1,0 +1,24 @@
+/* custom-fonts.css */
+@font-face {
+    font-family: 'PP Fraktion Mono';
+    src: url('/static/fonts/PPFraktionMono-Bold.woff2') format('woff2'),
+        url('/static/fonts/PPFraktionMono-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'PP Fraktion Mono';
+    src: url('/static/fonts/PPFraktionMono-Regular.woff2') format('woff2'),
+        url('/static/fonts/PPFraktionMono-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+  
+  
+
+
+
+
