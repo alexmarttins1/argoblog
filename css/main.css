@@ -41,7 +41,7 @@
   );
 
   /* Layout */
-  --container-width: 50ch;
+  --container-width: 56ch;
   --pre-border-radius: 0.75rem;
   --inline-border-radius: 0.375rem;
   --gap-base: 1em;
