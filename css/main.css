@@ -17,6 +17,7 @@
   --bg-h: 0;
   --bg-s: 0%;
   --bg-l: 99%;
+  --bg-v:#FAF8F5;
 
   /* Background colors */
   --color-bg-primary: hsl(var(--bg-h) var(--bg-s) var(--bg-l));
@@ -107,7 +108,7 @@ html {
 
 body {
   font: var(--font-size-base) / var(--spacing-base) var(--font-family-mono);
-  background: var(--color-bg-primary);
+  background: var(--bg-v);
   min-height: 100%;
   display: grid;
   grid-template-rows: auto 1fr auto;
