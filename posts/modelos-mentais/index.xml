@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Introdução aos Modelos Mentais on alexmartins</title><link>https://alexmartins.work/posts/modelos-mentais/</link><description>Recent content in Introdução aos Modelos Mentais on alexmartins</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://alexmartins.work/posts/modelos-mentais/index.xml" rel="self" type="application/rss+xml"/><item><title>MM - Feedback Loops</title><link>https://alexmartins.work/posts/mm-feedback-loops/</link><pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate><guid>https://alexmartins.work/posts/mm-feedback-loops/</guid><description>&lt;p&gt;&lt;strong&gt;Conceito técnico de feedback:&lt;/strong&gt;** informação comunicada em resposta a uma ação&lt;/p&gt;
+&lt;p&gt;Na Teoria Geral de Sistemas (TGS), um Feedback Loop &lt;strong&gt;&lt;strong&gt;ocorre quando os outputs(informações) de um sistema afetam seus próprios comportamentos.&lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;É a saída de informação afetando o próprio sistema&lt;br&gt;
+Pensei no arquivo de log, que registra uma informação (registro) das operações de uma determinada aplicação, onde podemos até programar para dar &amp;lsquo;print&amp;rsquo; de xx se x ocorrer ou dar &amp;lsquo;print&amp;rsquo; de yy se y ocorrer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Existem 2 tipos básicos de Feedback Loops:&lt;/strong&gt;&lt;br&gt;
+1 - Feedback Loop Equilibrador &lt;strong&gt;(Balancing)&lt;/strong&gt; ou Negativos.&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Objetivo: EQUILÍBRIO.&lt;/strong&gt; Agem como um freio, trazendo a variável de volta para uma faixa desejável.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Exemplo:&lt;/strong&gt;&lt;/em&gt; Termostato &amp;amp; sistema de aquecimento.&lt;br&gt;
+&lt;strong&gt;Informação sobre temperatura -&amp;gt; Termostato -&amp;gt; Ajuste de saída do forno para&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;manter temperatura desejada.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</description></item></channel></rss>
