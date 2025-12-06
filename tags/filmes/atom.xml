@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Filmes on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/filmes/</link>
+    <description>Recent content in Filmes on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Nov 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/filmes/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Filmes Preferidos</title>
+      <link>http://localhost:1313/posts/filmes-favoritos/</link>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/filmes-favoritos/</guid>
+      <description>&lt;h3 id=&#34;meu-top-10-por-enquanto&#34;&gt;Meu top 10, por enquanto: &lt;a href=&#34;#meu-top-10-por-enquanto&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Interestelar&lt;/strong&gt;, de Christopher Nolan&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;La Grande Belleza&lt;/strong&gt;, de Paolo Sorrentino&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Wind Rises&lt;/strong&gt;, do Studio Ghibli&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vivre Sa Vie&lt;/strong&gt;, de Jean-Luc Godard&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vertigo&lt;/strong&gt;, de Alfred Hitchcock&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;My Darling Clementine&lt;/strong&gt;, de John Ford&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;After The Rain&lt;/strong&gt;, de Takashi Koizumi&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Another Round&lt;/strong&gt;, de Thomas Vinterberg&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;A Hidden Life&lt;/strong&gt;, de Terrence Malick&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Seven Samurai&lt;/strong&gt;, de Akira Kurosawa&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;gosto-também&#34;&gt;Gosto também: &lt;a href=&#34;#gosto-tamb%c3%a9m&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Casablanca&lt;/strong&gt;, de Michael Curtiz&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Gertrud&lt;/strong&gt;, de Carl Dreyer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bunny Drop&lt;/strong&gt;, de SABU&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Hunt&lt;/strong&gt;, de Thomas Vinterberg&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;The Last Ronin&lt;/strong&gt;, de Shigemichi Sugita&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Love and Honor&lt;/strong&gt;, de Yoji Yamada&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dirty Harry&lt;/strong&gt;, de Don Siegel&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Pickpocket&lt;/strong&gt;, de Robert Bresson&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+    </item>
+  </channel>
+</rss>

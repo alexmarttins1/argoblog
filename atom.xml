@@ -1,0 +1,767 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+    <title>My New Hugo Site</title>
+    <description></description>
+    <link>http://localhost:1313/</link>
+    
+    <language>en</language>
+    <copyright>Copyright 2025, Ronalds Vilcins</copyright>
+    <lastBuildDate>Thu, 04 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo - gohugo.io</generator>
+    <docs>http://cyber.harvard.edu/rss/rss.html</docs>
+    <atom:link href="https://ronaldsvilcins.com/atom.xml" rel="self" type="application/atom+xml"/>
+    
+    <item>
+      <title>MM - Feedback Loops</title>
+      <link>http://localhost:1313/posts/modelos-mentais/mm---feedback-loops/</link>
+      <description>&lt;p&gt;&lt;strong&gt;Conceito técnico de feedback:&lt;/strong&gt; informação comunicada em resposta a uma ação&lt;/p&gt;
+&lt;p&gt;Na Teoria Geral de Sistemas (TGS), um Feedback Loop &lt;strong&gt;ocorre quando os outputs(informações) de um sistema afetam seus próprios comportamentos.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;É a saída de informação afetando o próprio sistema&lt;br&gt;
+Pensei no arquivo de log, que registra uma informação (registro) das operações de uma determinada aplicação, onde podemos até programar para dar &amp;lsquo;print&amp;rsquo; de xx se x ocorrer ou dar &amp;lsquo;print&amp;rsquo; de yy se y ocorrer.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Existem 2 tipos básicos de Feedback Loops:&lt;/strong&gt;&lt;br&gt;
+1 - Feedback Loop Equilibrador &lt;strong&gt;(Balancing)&lt;/strong&gt; ou Negativos.&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Objetivo: EQUILÍBRIO.&lt;/strong&gt; Agem como um freio, trazendo a variável de volta para uma faixa desejável.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Exemplo:&lt;/strong&gt;&lt;/em&gt; Termostato &amp;amp; sistema de aquecimento.&lt;br&gt;
+&lt;strong&gt;Informação sobre temperatura -&amp;gt; Termostato -&amp;gt; Ajuste de saída do forno para&lt;/strong&gt; &lt;em&gt;&lt;strong&gt;manter temperatura desejada.&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;2 - Feedback Loop Reforçador &lt;strong&gt;(Reinforcing)&lt;/strong&gt; ou Positivos.&lt;br&gt;
+&lt;strong&gt;&amp;ldquo;Objetivo: AMPLIFICAÇÃO.&lt;/strong&gt;** Agem como um acelerador, impulsionando o sistema/processo específico para longe de seu ponto de partida.&amp;rdquo;&lt;br&gt;
+&lt;em&gt;&lt;strong&gt;Exemplo:&lt;/strong&gt;&lt;/em&gt; Popularidade das trends da moda e ciclos envolvidos na pobreza&lt;br&gt;
+&lt;em&gt;Para quebrar esses ciclos reforçadores, muitas vezes é necessária intervenção externa ou uma nova mudança de condições.&lt;/em&gt;&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Tipologia do Feedback Loop&lt;/th&gt;
+          &lt;th&gt;Efeito no sistema&lt;/th&gt;
+          &lt;th&gt;Exemplo de resultado positivo&lt;/th&gt;
+          &lt;th&gt;Exemplo de resultado negativo&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;REFORÇADOR&lt;/strong&gt; (Positivo)&lt;/td&gt;
+          &lt;td&gt;Amplificação / Aceleração&lt;/td&gt;
+          &lt;td&gt;Popularidade crescente de um produto excelente.&lt;/td&gt;
+          &lt;td&gt;Aumento da pobreza ou crime (Sequestro)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;strong&gt;BALANCEADOR&lt;/strong&gt; (Negativo)&lt;/td&gt;
+          &lt;td&gt;Estabilidade / Freio&lt;/td&gt;
+          &lt;td&gt;Mantém a temperatura da casa ideal&lt;/td&gt;
+          &lt;td&gt;Mantém um mau hábito em equilíbrio (difícil de mudar).&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A classificação de &amp;ldquo;negativo&amp;rdquo; ou &amp;ldquo;positivo&amp;rdquo; (bom/ruim) é, na prática, uma avaliação do &lt;strong&gt;valor da consequência&lt;/strong&gt; (o que chamamos de efeitos de segunda ordem ou posteriores) que o ciclo amplificado está gerando.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O mundo é um grande emanador de feedbacks sobre o que funciona e o que não funciona.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Para o feedback ser útil é preciso &lt;strong&gt;aprender a filtrá-lo.&lt;/strong&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;É &lt;strong&gt;fundamental&lt;/strong&gt; aprender a identificar o feedback bom, aceitá-lo e incorporá-lo rapidamente. É o que faz progredir.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Em sistemas complexos, o feedback raramente é imediato.&lt;br&gt;
+Esse atraso pode dificultar o estabelecimento da &lt;strong&gt;causa e efeito.&lt;/strong&gt;*&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;O maior problema para nossas decisões surge quando o feedback das nossas ações é atrasado ou indireto&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Relação de atraso nos feedbacks:&lt;/strong&gt;
+Você decide comer um doce cheio de açúcar e gordura.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Feedback Imediato (Curto Prazo):&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Você sente um prazer instantâneo. Seu corpo responde à gordura e ao açúcar com uma sensação de recompensa. Esse é um &lt;strong&gt;ciclo reforçador&lt;/strong&gt; de prazer imediato.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Feedback Atrasado (Médio Prazo):&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Depois de um tempo, você se sente pesado ou recebe outras indicações do seu corpo de que a escolha teve consequências negativas.&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;&lt;strong&gt;Feedback Atrasado (Longo Prazo):&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;ul&gt;
+&lt;li&gt;*Ao longo de períodos mais longos, as condições de saúde, como diabetes tipo 2 ou pressão alta, fornecem ainda mais feedback sobre o impacto real dos seus hábitos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;No caso, você fica preso a um comportamento ruim (mal-adaptativo) porque recebeu um feedback positivo de curto prazo (pico de dopamina).&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;Iterar&amp;rdquo; significa repetir um processo, ajustando-o levemente a cada vez:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&amp;ldquo;Shorter feedback loops means more iterations, and it’s the number of iterations, not the number of hours, that drives learning.&amp;rdquo; - Naval Ravikant
+&lt;em&gt;Ação -&amp;gt; Resposta (Feedback) -&amp;gt; Filtro -&amp;gt; Resultado&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;OBS: O feedback também pode causar problemas se for muito rápido e muito forte, pois o sistema pode entrar em surto ou &amp;ldquo;oscilação&amp;rdquo;. O que queremos é um feedback de intensidade equilibrada.&lt;/p&gt;
+&lt;p&gt;O economista Adam Smith, pai da economia moderna e do capitalismo, em sua obra filosófica &amp;lsquo;The Theory of Moral Sentiments&amp;rsquo;, descreveu uma força invisível que nos guia: &lt;strong&gt;a aprovação e a desaprovação dos outros, seja real ou imaginária (mecanismo de feedback).&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Ele diz que por natureza &lt;em&gt;nós somos egoístas.&lt;/em&gt; Para a maioria das pessoas, perder o dedo mindinho seria mais estressante do que a notícia da morte de milhares de estranhos em outro país.&lt;/li&gt;
+&lt;li&gt;Smith diz que fomos dotados pela Natureza de um &lt;em&gt;desejo fundamental de agradar os outros&lt;/em&gt; e uma &lt;em&gt;aversão básica a ofendê-los.&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;As interações sociais então tornam-se um circuito de feedback constante.&lt;/li&gt;
+&lt;li&gt;Para Smith, o feedback das reações dos outros às nossas ações é a base da civilização. &lt;strong&gt;Se fazemos algo bom, recebemos reação positiva (condiciona busca por prazer). Se fazemos algo egoísta, recebemos reação negativa (condiciona fuga da dor).&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;Conectando com o contexto, o infanticídio seria um exemplo de feedback loop reforçador, pois a prática era reforçada pela falta de desaprovação social, já que era considerado algo comum.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Feedback Loops balanceadores são mais comuns em sistemas por que são sustentáveis. Em muitas sociedades, um sistema jurídico serviu para impedir feedback loops reforçadores de desmoronarem a infraestrutura social.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Agora, como ajustar esses feedback loops em sistemas grandes, complexos e que  nos beneficiem?&lt;/strong&gt; Usando as ==4 lentes de análise:==&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Criação dos Incentivos Futuros Corretos&lt;/li&gt;
+&lt;li&gt;Influência do Comportamento nas Margens&lt;/li&gt;
+&lt;li&gt;Lidar com Cascatas de Informação&lt;/li&gt;
+&lt;li&gt;Construção de Confiança(Trust)&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;==Primeira Lente:== &lt;strong&gt;Criação dos incentivos futuros corretos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Olhar para o futuro ao tomar uma decisão hoje, focando em minimizar a chance de criar um feedback loop reforçador negativo lá na frente.&lt;/li&gt;
+&lt;li&gt;Quando agimos, estamos sempre enviando uma mensagem, e esta pode criar um incentivo para que o comportamento (bom ou ruim) se repita ou se amplifique.&lt;/li&gt;
+&lt;li&gt;Sempre considere os incentivos futuros que uma decisão irá gerar.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt;
+Imagine que uma criança quebrou um brinquedo. O &lt;em&gt;problema imediato&lt;/em&gt; é o brinquedo quebrado. Se você simplesmente compra um novo imediatamente, a criança pode entender: &amp;ldquo;Quebrar coisas resulta em ganhar coisas novas&amp;rdquo;. Essa resposta cria um &lt;strong&gt;incentivo futuro&lt;/strong&gt; que reforça o comportamento de quebrar, criando um feedback loop reforçador negativo.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt;
+O ato de pagar resgate a sequestradores ilustra perfeitamente essa lente de análise.
+• &lt;strong&gt;Problema Imediato (Curto Prazo):&lt;/strong&gt; Alguém foi sequestrado, e a demanda é por dinheiro para libertá-lo. Pagar o resgate salva uma vida e resolve o problema &lt;em&gt;agora&lt;/em&gt;.
+• &lt;strong&gt;Feedback Criado (Longo Prazo):&lt;/strong&gt; Sua resposta (pagar o resgate) comunica aos sequestradores que você cede às suas demandas. Isso cria um &lt;strong&gt;incentivo&lt;/strong&gt; para eles sequestrarem novamente (ciclo reforçador) e sinaliza a outros aspirantes a sequestradores que o crime é lucrativo.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;==Segunda Lente:== &lt;strong&gt;Influenciando o comportamento nas margens&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Pense em uma sociedade. Mudar o comportamento de todo mundo (de uma vez) é quase impossível e caríssimo. Mudar o comportamento nas margens, no entanto, pode ser muito mais eficaz a levar a uma mudança duradoura no sistema inteiro.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Pense em um grande rebanho de ovelhas e que seria mais fácil um lobo caçar as desgarradas que ficam mais apartadas do grupo central, ou seja, as que estão nas margens.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Não olhe apenas para o todo (pensamento binário)&lt;/strong&gt;
+&amp;ldquo;Pensando nas margens, o mais importante, significa olhar para os problemas não de forma inteira/total, como se fosse tudo ou nada, mas em incrementos/partes: vendo o comportamento como um monte de decisões sobre quando fazer um pouco menos em uma direção e fazer um pouco mais em outra direção.&amp;rdquo;
+&lt;ul&gt;
+&lt;li&gt;Ward Farnsworth&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;Exemplo:&lt;/em&gt; fazer as pessoas pararem de beber refrigerante
+PENSAMENTO BINÁRIO: Ou elas consomem ou não consomem
+PENSAMENTO MARGINAL: Observa-se onde pode-se influenciar o comportamento em diferentes aspectos&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;• Como posso fazer com que as pessoas consumam &lt;em&gt;um pouco menos&lt;/em&gt;?&lt;br&gt;
+• Como posso incentivá-las a &lt;em&gt;trocar&lt;/em&gt; o refrigerante normal por um sem açúcar?&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;As margens, são, muitas vezes, o lugar onde os feedbacks loops reforçadores negativos começam.&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Por exemplo, em um negócio, não é o cliente leal de 20 anos que provavelmente deixará a empresa após um aumento de preço; é a pessoa que comprou recentemente (o cliente na margem). Se esse cliente marginal sair e for para um concorrente, ele pode desencadear uma reação negativa que faz as vendas despencarem.&lt;/li&gt;
+&lt;li&gt;Para evitar isso, a empresa pode criar feedback loops balanceadores nas margens, como um programa de fidelidade para os clientes novos.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Quando um sistema, como uma cidade ou país, torna-se muito grande, &lt;strong&gt;o número de margens a serem ajustadas aumenta.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Se você tenta forçar substituições, pode acabar criando outras substituições não desejadas, ou seja, &lt;strong&gt;ao tentar criar um feedback loop balanceador em um lugar, pode-se iniciar um ciclo de feedback reforçador negativo em outro lugar.&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Exemplo:&lt;/em&gt; Se for imposto que o consumo de bebidas açucarados seja mais difícil em locais públicos (para equilibrar o consumo), as pessoas podem ser forçadas a consumir mais em espaços privados, como em casa.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Aumento de consumo em casa&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Normalização de tal comportamento para as crianças ao ver o exemplo dos pais&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;O conceito de feedback inicia a ideia de que um sistema pode causar seu próprio comportamento&amp;rdquo;
+&lt;em&gt;Donella H. Meadows&lt;/em&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;==Terceira Lente:== Lidando com cascatas de informações&lt;/p&gt;
+&lt;p&gt;Cascatas de Informação são &lt;strong&gt;feedback loops reforçadores&lt;/strong&gt;, seja &lt;em&gt;positivo&lt;/em&gt; ou &lt;em&gt;negativo&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt; Imagine que você está andando na rua e vê uma fila enorme na porta de uma sorveteria que você nunca ouviu falar. Você pensa: &amp;ldquo;Nossa, se tanta gente está nessa fila, deve ser o melhor sorvete do mundo!&amp;rdquo;. E você entra na fila também. É exatamente assim que funcionam as Cascatas de Informação.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 2:&lt;/strong&gt; Um artista de rua atrai um pequeno grupo. O grupo fica maior à medida que pessoas com baixos limites de curiosidade vêm ver o que está acontecendo. Então a multidão realmente cresce, pois pessoas com limites normais veem uma massa de espectadores convergindo para a calçada e não resistem a investigar do que se trata todo esse alvoroço.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 3:&lt;/strong&gt; O próprio uso da inteligência artificial deriva de uma tendência reforçada por mais e mais pessoas.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Elas são um fenômeno em sistemas sociais onde a decisão de uma pessoa de adotar algo (entrar na fila, comprar um produto, seguir uma tendência, ou até cometer um ato ilícito) é &lt;strong&gt;amplificada&lt;/strong&gt; quando outras pessoas a veem fazendo o mesmo.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Em uma Cascata de Informação, a informação se propaga e se amplifica, &lt;strong&gt;como uma bola de neve:&lt;/strong&gt;&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Ação inicial:&lt;/strong&gt; Uma pessoa adota um comportamento (Ex.: Entra na fila do restaurante).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Feedback:&lt;/strong&gt; Outras pessoas veem essa ação (a fila).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Reforço:&lt;/strong&gt; A visão da fila atrai pessoas que estavam indecisas sobre o restaurante.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Amplificação:&lt;/strong&gt; A fila fica maior, criando uma impressão ainda mais forte sobre o próximo grupo de pessoas que passa, atiçando o interesse de um novo nível de limiar (ou seja, mais gente é convencida a entrar).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Cresce através de:
+&lt;em&gt;Popularidade aparente&lt;/em&gt;&amp;gt;&lt;em&gt;Lógica&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;O professor Farnsworth diz que o &lt;strong&gt;&amp;ldquo;solo&amp;rdquo;&lt;/strong&gt; mais fértil para uma Cascata de Informação crescer é onde tem a&lt;strong&gt;ignorância e a incerteza&lt;/strong&gt;, pois o ser humano busca o máximo de absolutez possível para fazer algo. Quando isso não é possível, a ação dos outros se torna a &lt;strong&gt;sua informação&lt;/strong&gt;, e você confia nela, permitindo que a cascata se espalhe.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;==Quarta Lente:== Construindo Confiança&lt;/p&gt;
+&lt;p&gt;Imagine que vivemos em uma cidade muito, muito grande, cheia de pessoas fazendo muitas coisas diferentes. Para que essa &amp;ldquo;cidade&amp;rdquo; funcione sem cair no caos total, precisamos ter certeza de que a maioria das pessoas fará o que é esperado. Essa certeza é o que chamamos de &lt;strong&gt;confiança&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;As sociedades complexas exigem uma boa dose de confiança entre seus membros para funcionar&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Exemplo 1:&lt;/strong&gt;
+Pense, por exemplo, em algo tão comum quanto dirigir um carro. Você confia que os outros motoristas vão parar nos sinais vermelhos e ficarão em suas faixas. Você fica atento a um erro ocasional, claro, mas a base é a crença de que todos seguirão as mesmas regras.&lt;/p&gt;
+&lt;p&gt;Essa confiança constrói-se a partir de feedback loops.&lt;/p&gt;
+&lt;p&gt;Para explicar melhor a relação dos feedback loops na confiança, há um exemplo clássico da Game Theory chamado &lt;em&gt;Dilema do Prisioneiro&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;a Teoria dos Jogos é uma forma matemática de modelar como as decisões individuais afetam os resultados coletivos, focando nas interações e nos benefícios (ou perdas) resultantes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/dillemaprisoner.png&#34; alt=&#34;imagem&#34; loading=&#34;lazy&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;Dois criminosos são capturados e colocados em celas separadas. Eles não conseguem conversar entre si e são acusados de um crime que cometeram juntos. A polícia não tem provas suficientes para condenar ambos a uma pena máxima, mas está determinada a garantir que os dois passem algum tempo na prisão.&lt;/p&gt;
+&lt;p&gt;A polícia oferece a cada prisioneiro (A e B) um acordo, com as seguintes condições:&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Se ambos os prisioneiros se acusarem mutuamente&lt;/strong&gt; (ou seja, se ambos disserem que o outro cometeu o crime), cada um pegará &lt;strong&gt;dois anos&lt;/strong&gt; de prisão.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Se o prisioneiro A acusar o prisioneiro B&lt;/strong&gt;, mas o &lt;strong&gt;prisioneiro B ficar em silêncio&lt;/strong&gt;, o prisioneiro B pegará &lt;strong&gt;cinco anos&lt;/strong&gt; de prisão, e o prisioneiro A pegará &lt;strong&gt;zero&lt;/strong&gt; anos (e vice-versa).&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Se ambos os prisioneiros ficarem em silêncio&lt;/strong&gt;, cada um pegará apenas &lt;strong&gt;um ano&lt;/strong&gt; de prisão.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;&lt;strong&gt;As Opções e o Raciocínio (A Falta de Confiança)&lt;/strong&gt;
+Na Teoria dos Jogos, a decisão de &lt;strong&gt;ficar em silêncio&lt;/strong&gt; (o comportamento altruísta) é chamada de &lt;strong&gt;&amp;ldquo;cooperar&amp;rdquo;&lt;/strong&gt;, enquanto a decisão de &lt;strong&gt;acusar o outro&lt;/strong&gt; é chamada de &lt;strong&gt;&amp;ldquo;desertar&amp;rdquo;&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;O que eles deveriam fazer?&lt;/strong&gt;
+Se eles pudessem conversar e confiassem um no outro (o que raramente acontece nesse tipo de cenário, pois as pessoas tendem a agir por interesse próprio), a escolha mais racional para o grupo seria &lt;strong&gt;permanecer em silêncio&lt;/strong&gt;. Assim, cada um pegaria apenas um ano, que é a menor pena total.&lt;/p&gt;
+&lt;p&gt;No entanto, o problema é a &lt;strong&gt;confiança&lt;/strong&gt;.
+&lt;em&gt;• Cada prisioneiro pensa: &amp;ldquo;Como posso saber que o outro não vai me acusar para sair livre (pegar zero anos)?&amp;rdquo;.&lt;/em&gt;
+&lt;em&gt;• O risco de ser o único a ficar em silêncio é muito alto (pegar cinco anos).&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;Assim, o &lt;strong&gt;resultado de equilíbrio&lt;/strong&gt; (o que geralmente acontece quando o jogo é jogado uma única vez) é que &lt;strong&gt;ambos se acusam&lt;/strong&gt; (desertam) e cada um cumpre dois anos de prisão.&lt;/p&gt;
+&lt;p&gt;A estratégia clássica mais eficaz nesse cenário repetido é chamada de &lt;strong&gt;&amp;ldquo;Tit-for-Tat&amp;rdquo;&lt;/strong&gt; (Olho por Olho, mas com uma nuance de começar positivo):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;O jogador começa &lt;strong&gt;cooperando&lt;/strong&gt; (ficando em silêncio).&lt;/li&gt;
+&lt;li&gt;Nas rodadas subsequentes, o jogador &lt;strong&gt;faz o que o outro jogador fez na rodada anterior&lt;/strong&gt; (reciprocidade).&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Ao cooperar primeiro, você cria um feedback loop que sinaliza sua capacidade e vontade de confiar. O sucesso dessa estratégia demonstra como as interações repetidas entre agentes egoístas podem levar ao &lt;strong&gt;comportamento cooperativo&lt;/strong&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A tática Tit-for-Tat (TfT) não é puramente um feedback loop reforçador positivo, mas sim um &lt;strong&gt;Feedback Loop de Reciprocidade&lt;/strong&gt; que, quando funciona bem, &lt;strong&gt;reforça a cooperação&lt;/strong&gt; e atua para &lt;strong&gt;manter o equilíbrio&lt;/strong&gt; da confiança.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O exemplo do Dilema do Prisioneiro ilustra que a confiança é construída através de mecanismos de feedback – o que aconteceu antes influencia o que acontecerá depois – e isso é fundamental para a funcionalidade de sociedades complexas&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;==OBS: Iterações de Kandinsky:==&lt;/p&gt;
+&lt;p&gt;O modelo das iterações é simples de entender: &lt;strong&gt;nós aprendemos com os nossos esforços&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Imagine que você está tentando desenhar um círculo perfeito. Na primeira vez, ele sai todo torto. O ato de olhar para o círculo torto e compará-lo com o que você queria é o &lt;strong&gt;feedback&lt;/strong&gt;. Se você usa essa informação para tentar desenhar de novo, corrigindo a mão, você está &lt;em&gt;&lt;strong&gt;iterando&lt;/strong&gt;&lt;/em&gt;.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Rever citação do Naval Ravikant&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;O famoso artista Wassily Kandinsky nos dá um exemplo perfeito disso:
+Kandinsky criou uma de suas obras mais famosas, a pintura chamada &lt;em&gt;Painting with White Border&lt;/em&gt;.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Não foi um&lt;/strong&gt; &lt;strong&gt;flash&lt;/strong&gt; &lt;strong&gt;de inspiração:&lt;/strong&gt; Essa obra não foi resultado de um momento único de gênio. Foi um processo que durou meses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;O Feedback Guiou a Mão:&lt;/strong&gt; Kandinsky usou o feedback que recebia de &lt;strong&gt;pequenas mudanças&lt;/strong&gt; em seus esboços para se aproximar de sua visão final.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;A Jornada das Vinte Tentativas:&lt;/strong&gt; Ele começou com um primeiro rascunho. Com base no que viu, ele continuou a iterar, fazendo &lt;strong&gt;vinte esboços&lt;/strong&gt; no total.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Ajustes Minúsculos, Grande Impacto:&lt;/strong&gt; Cada esboço subsequente era apenas uma ou duas etapas diferente do anterior, mas esse processo sutil levou cinco meses.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Kandinsky estava, na verdade, tentando resolver problemas específicos em sua pintura (podemos chamar isso de objetivos artísticos). Cada iteração lhe dava um feedback se ele estava mais perto ou mais longe de resolver esses problemas. Eventualmente, ele teve informação suficiente para produzir o quadro que queria, que foi sua 21ª pintura.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;A iteração é, na verdade, um feedback loop aplicado continuamente para aprimoramento.&lt;/em&gt;&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/modelos-mentais/mm---feedback-loops/</guid>
+      <pubDate>Thu, 04 Dec 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Filmes Preferidos</title>
+      <link>http://localhost:1313/posts/filmes-favoritos/</link>
+      <description>&lt;h3 id=&#34;meu-top-10-por-enquanto&#34;&gt;Meu top 10, por enquanto: &lt;a href=&#34;#meu-top-10-por-enquanto&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ol&gt;
+&lt;li&gt;&lt;strong&gt;Interestelar&lt;/strong&gt;, de Christopher Nolan&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;La Grande Belleza&lt;/strong&gt;, de Paolo Sorrentino&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Wind Rises&lt;/strong&gt;, do Studio Ghibli&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vivre Sa Vie&lt;/strong&gt;, de Jean-Luc Godard&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Vertigo&lt;/strong&gt;, de Alfred Hitchcock&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;My Darling Clementine&lt;/strong&gt;, de John Ford&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;After The Rain&lt;/strong&gt;, de Takashi Koizumi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Another Round&lt;/strong&gt;, de Thomas Vinterberg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;A Hidden Life&lt;/strong&gt;, de Terrence Malick&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Seven Samurai&lt;/strong&gt;, de Akira Kurosawa&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;gosto-também&#34;&gt;Gosto também: &lt;a href=&#34;#gosto-tamb%c3%a9m&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Casablanca&lt;/strong&gt;, de Michael Curtiz&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Gertrud&lt;/strong&gt;, de Carl Dreyer&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Bunny Drop&lt;/strong&gt;, de SABU&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Hunt&lt;/strong&gt;, de Thomas Vinterberg&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;The Last Ronin&lt;/strong&gt;, de Shigemichi Sugita&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Love and Honor&lt;/strong&gt;, de Yoji Yamada&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Dirty Harry&lt;/strong&gt;, de Don Siegel&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pickpocket&lt;/strong&gt;, de Robert Bresson&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/filmes-favoritos/</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Projeto: Visu Editor</title>
+      <link>http://localhost:1313/posts/visu-editor/</link>
+      <description>&lt;p&gt;Por ser técnico em Redes de Computadores, durante a época da escola, passei pela matéria de Lógica de Programação, que tornou-se muito útil para mim mais tarde. A criação de algoritmos é uma mão na roda para a resolução de problemas práticos e também para o aprendizado de qualquer assunto.&lt;/p&gt;
+&lt;p&gt;Lembro que nas aulas usávamos um programa chamado VisualG, criado pelo prof. Carlos Nicolodi, inventor da linguagem Portugol que era usada no programa. Hoje em dia, ao dar aulas particulares, percebi no entanto que não poderia usá-lo. Havia um problema nele que incomodava-me: a interface datada. Ela carecia de uma modernização, considerando as leis envolvidas no processo de aprendizagem e as tendências psicológicas das gerações mais jovens.&lt;/p&gt;
+&lt;p&gt;Assim nasceu o Visu, um web app feito para criar algoritmos em Portugol.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/visu.png&#34; alt=&#34;imagem&#34; loading=&#34;lazy&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;Tomei como base de inspiração o bom e velho VisualG e adicionei alguns upgrades:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Construído em cima do Princípio de Pareto, buscando apenas 20% das funções necessárias para construir 80% dos algoritmos possíveis.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Por ser um web app, não precisa instalar, e tem alta responsividade para tablet e celular, pensando nas pessoas que não tem um computador à disposição&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Sistema de abas para gerenciar múltiplos algoritmos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integração de exemplos básicos de algoritmos&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Integração de um manual de ajuda, que informa a estrutura básica, os tipos de variáveis, comandos de entrada, operadores, etc&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Editor com syntax highlighting para imersão no algoritmo&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Console de saída acoplado&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Modo foco&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Configurações de acessibilidade com personalização de temas (light/dark) e tamanho de fonte&lt;/p&gt;
+&lt;p&gt;Qualquer pessoa pode acessar o Visu por meio deste  &lt;a href=&#34;https://visueditor.vercel.app&#34;&gt;link.&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;OBS&lt;/strong&gt;: Já tenho novas melhorias para o Visu, principalmente na versão mobile. Um exemplo de melhoria futura é a adição de um função code-to-flowchart, onde o Visu geraria um fluxograma baseado no algoritmo criado, para o aluno ter a representação visual do que ele está fazendo.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/visu-editor/</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Recomendações de leitura</title>
+      <link>http://localhost:1313/posts/recomenda%C3%A7%C3%B5es-de-leitura/</link>
+      <description>&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://olavodecarvalho.org/o-abandono-dos-ideais&#34;&gt;O abandono dos ideais, de Olavo de Carvalho&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://reneguenon.net/TitusSimbolismoXadrez&#34;&gt;O simbolismo do xadrez, de Titus Burckhardt&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://gwarlingo.com/2013/the-polaroids-of-andrei-tarkovsky-the-mystery-of-everyday-life/&#34;&gt;The Polaroids of Andrei Tarkovski&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://paulgraham.com/superlinear.html&#34;&gt;Superlinear Returns, de Paul Graham&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://nabeelqu.co/principles&#34;&gt;Principles, de Nabeel Qureshi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://substack.com/home/post/p-162503453&#34;&gt;Performance e Paralisia, de Ariela K.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://substack.com/home/post/p-140548458&#34;&gt;Trabalho e Devoção, de Rafael Censon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://contosquevalemapena.blogspot.com/2015/05/47-um-homem-bom-e-dificil-de-encontrar.html&#34;&gt;Um homem bom é difícil de encontrar, um conto de Flannery O&amp;rsquo;Connor&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://machadodeassis.net/texto/aurora-sem-dia/26691&#34;&gt;Aurora sem dia, um conto de Machado de Assis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://letterboxd.com/ibrahim_amjad/film/belle-de-jour/&#34;&gt;Análise de &amp;ldquo;Belle de Jour&amp;rdquo; por Ibrahim Amjad&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://x.com/naval/status/1002103360646823936&#34;&gt;Thread &amp;ldquo;How to Get Rich&amp;rdquo;, de Naval Ravikant&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://daseintropical.substack.com/p/sol-e-aco&#34;&gt;Sol e Aço, de Yukio Mishima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://educatedandfree.substack.com/p/learning-how-to-learn&#34;&gt;Learning How to Learn, de Dissident Teacher&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.makingsoftware.com&#34;&gt;Making Software, de Dan Hollick&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.stripe.press/poor-charlies-almanack&#34;&gt;Lectures of Essential Wisdom, de Charlie Munger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://every.to/chain-of-thought/the-knowledge-economy-is-over-welcome-to-the-allocation-economy&#34;&gt;Welcome to the Allocation Economy, de Dan Shipper&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/recomenda%C3%A7%C3%B5es-de-leitura/</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Chaves simbólicas em Interestelar</title>
+      <link>http://localhost:1313/posts/chaves-simb%C3%B3licas-em-interestelar/</link>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/interstellar.png&#34; alt=&#34;imagem&#34; loading=&#34;lazy&#34; /&gt;
+&lt;/p&gt;
+&lt;p&gt;Interestelar é sem dúvidas um dos meus filmes preferidos. Já devo ter assistido, sem exagero, umas 8 vezes. A cada nova vez que assisto, obtenho novas impressões.&lt;/p&gt;
+&lt;p&gt;Christopher Nolan, diretor do filme, teve enfoque máximo em criar as variáveis cinematográficas a partir das variáveis fundamentadas pela Ciência. Chamou até um físico, Kip Thorne, para ser o consultor científico do filme e garantir a precisão dos conceitos. Agora, não sei se Nolan fez isso de propósito, mas em nenhum momento Interestelar demonstra um apelo científico maior do que o apelo religioso. De certa forma, considero até um filme &amp;ldquo;cristão&amp;rdquo;. Vou falar um pouco sobre isso.&lt;/p&gt;
+&lt;p&gt;É interessante saber que Nolan esteve envolvido na produção do filme Man of Steel, do Zack Snyder. Esse filme carrega um realismo que desagradou muitas pessoas, mas que traz ao mesmo uma espécie de mística religiosa para a narrativa visual, tendo o Super Man como um símbolo de Cristo. Se tivesse que categoriza-lo dentro do sistema de teoria crítica do Northrop Frye, com toda certeza seria em narrativa mítica. Cito isso porque é preciso saber que Nolan tem gosto por essas atribuições simbólicas, pois acontece o mesmo em Interestelar,
+que enquadra-se em uma narrativa lendária.&lt;/p&gt;
+&lt;p&gt;Falando dos personagens, Cooper e Murphy, o pai e a filha, possuem os papéis principais. Cooper é claramente uma sublimação do Pai e do Espírito Santo e Murphy uma sublimação do Filho, assim formando a representação simbólica da Santíssima Trindade. Cooper representa o Espírito Santo como o fantasma que a Murphy percebia desde criança.&lt;/p&gt;
+&lt;p&gt;A própria Ciência ocupa o lugar da Religião no filme, no sentido de que ao viver em um mundo à beira de um cataclismo, as pessoas não veem mais sentido nela, até mesmo em sentido histórico.&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/chaves-simb%C3%B3licas-em-interestelar/</guid>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Markdown Syntax Guide</title>
+      <link>http://localhost:1313/posts/markdown-syntax/</link>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;
+&lt;h2 id=&#34;headings&#34;&gt;Headings &lt;a href=&#34;#headings&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The following HTML &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt;—&lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; elements represent six levels of section headings. &lt;code&gt;&amp;lt;h1&amp;gt;&lt;/code&gt; is the highest section level while &lt;code&gt;&amp;lt;h6&amp;gt;&lt;/code&gt; is the lowest.&lt;/p&gt;
+&lt;h1 id=&#34;h1&#34;&gt;H1 &lt;a href=&#34;#h1&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;h2 id=&#34;h2&#34;&gt;H2 &lt;a href=&#34;#h2&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h3 id=&#34;h3&#34;&gt;H3 &lt;a href=&#34;#h3&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+&lt;h4 id=&#34;h4&#34;&gt;H4 &lt;a href=&#34;#h4&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;h5 id=&#34;h5&#34;&gt;H5 &lt;a href=&#34;#h5&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h5&gt;
+&lt;h6 id=&#34;h6&#34;&gt;H6 &lt;a href=&#34;#h6&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h6&gt;
+&lt;h2 id=&#34;paragraph&#34;&gt;Paragraph &lt;a href=&#34;#paragraph&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Xerum, quo qui aut unt expliquam qui dolut labo. Aque venitatiusda cum, voluptionse latur sitiae dolessi aut parist aut dollo enim qui voluptate ma dolestendit peritin re plis aut quas inctum laceat est volestemque commosa as cus endigna tectur, offic to cor sequas etum rerum idem sintibus eiur? Quianimin porecus evelectur, cum que nis nust voloribus ratem aut omnimi, sitatur? Quiatem. Nam, omnis sum am facea corem alique molestrunt et eos evelece arcillit ut aut eos eos nus, sin conecerem erum fuga. Ri oditatquam, ad quibus unda veliamenimin cusam et facea ipsamus es exerum sitate dolores editium rerore eost, temped molorro ratiae volorro te reribus dolorer sperchicium faceata tiustia prat.&lt;/p&gt;
+&lt;p&gt;Itatur? Quiatae cullecum rem ent aut odis in re eossequodi nonsequ idebis ne sapicia is sinveli squiatum, core et que aut hariosam ex eat.&lt;/p&gt;
+&lt;h2 id=&#34;blockquotes&#34;&gt;Blockquotes &lt;a href=&#34;#blockquotes&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;The blockquote element represents content that is quoted from another source, optionally with a citation which must be within a &lt;code&gt;footer&lt;/code&gt; or &lt;code&gt;cite&lt;/code&gt; element, and optionally with in-line changes such as annotations and abbreviations.&lt;/p&gt;
+&lt;h4 id=&#34;blockquote-without-attribution&#34;&gt;Blockquote without attribution &lt;a href=&#34;#blockquote-without-attribution&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Tiam, ad mint andaepu dandae nostion secatur sequo quae.
+&lt;strong&gt;Note&lt;/strong&gt; that you can use &lt;em&gt;Markdown syntax&lt;/em&gt; within a blockquote.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;blockquote-with-attribution&#34;&gt;Blockquote with attribution &lt;a href=&#34;#blockquote-with-attribution&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Don&amp;rsquo;t communicate by sharing memory, share memory by communicating.&lt;!-- raw HTML omitted --&gt;
+— &lt;!-- raw HTML omitted --&gt;Rob Pike&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;tables&#34;&gt;Tables &lt;a href=&#34;#tables&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Tables aren&amp;rsquo;t part of the core Markdown spec, but Hugo supports supports them out-of-the-box.&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Name&lt;/th&gt;
+          &lt;th&gt;Age&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Bob&lt;/td&gt;
+          &lt;td&gt;27&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Alice&lt;/td&gt;
+          &lt;td&gt;23&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h4 id=&#34;inline-markdown-within-tables&#34;&gt;Inline Markdown within tables &lt;a href=&#34;#inline-markdown-within-tables&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Italics&lt;/th&gt;
+          &lt;th&gt;Bold&lt;/th&gt;
+          &lt;th&gt;Code&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;&lt;em&gt;italics&lt;/em&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;strong&gt;bold&lt;/strong&gt;&lt;/td&gt;
+          &lt;td&gt;&lt;code&gt;code&lt;/code&gt;&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;h2 id=&#34;code-blocks&#34;&gt;Code Blocks &lt;a href=&#34;#code-blocks&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;code-block-with-backticks&#34;&gt;Code block with backticks &lt;a href=&#34;#code-block-with-backticks&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;charset&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;h4 id=&#34;code-block-indented-with-four-spaces&#34;&gt;Code block indented with four spaces &lt;a href=&#34;#code-block-indented-with-four-spaces&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;pre&gt;&lt;code&gt;&amp;lt;!doctype html&amp;gt;
+&amp;lt;html lang=&amp;quot;en&amp;quot;&amp;gt;
+&amp;lt;head&amp;gt;
+  &amp;lt;meta charset=&amp;quot;utf-8&amp;quot;&amp;gt;
+  &amp;lt;title&amp;gt;Example HTML5 Document&amp;lt;/title&amp;gt;
+&amp;lt;/head&amp;gt;
+&amp;lt;body&amp;gt;
+  &amp;lt;p&amp;gt;Test&amp;lt;/p&amp;gt;
+&amp;lt;/body&amp;gt;
+&amp;lt;/html&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;
+&lt;h4 id=&#34;code-block-with-hugos-internal-highlight-shortcode&#34;&gt;Code block with Hugo&amp;rsquo;s internal highlight shortcode &lt;a href=&#34;#code-block-with-hugos-internal-highlight-shortcode&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#75715e&#34;&gt;&amp;lt;!doctype html&amp;gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;lang&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;en&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;meta&lt;/span&gt; &lt;span style=&#34;color:#a6e22e&#34;&gt;charset&lt;/span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;=&lt;/span&gt;&lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;utf-8&amp;#34;&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;Example HTML5 Document&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;title&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;head&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  &amp;lt;&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;Test&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;p&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;body&lt;/span&gt;&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&amp;lt;/&lt;span style=&#34;color:#f92672&#34;&gt;html&lt;/span&gt;&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;h2 id=&#34;list-types&#34;&gt;List Types &lt;a href=&#34;#list-types&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;h4 id=&#34;ordered-list&#34;&gt;Ordered List &lt;a href=&#34;#ordered-list&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;First item&lt;/li&gt;
+&lt;li&gt;Second item&lt;/li&gt;
+&lt;li&gt;Third item&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h4 id=&#34;unordered-list&#34;&gt;Unordered List &lt;a href=&#34;#unordered-list&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;List item&lt;/li&gt;
+&lt;li&gt;Another item&lt;/li&gt;
+&lt;li&gt;And another item&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;nested-list&#34;&gt;Nested list &lt;a href=&#34;#nested-list&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;Fruit
+&lt;ul&gt;
+&lt;li&gt;Apple&lt;/li&gt;
+&lt;li&gt;Orange&lt;/li&gt;
+&lt;li&gt;Banana&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;Dairy
+&lt;ul&gt;
+&lt;li&gt;Milk&lt;/li&gt;
+&lt;li&gt;Cheese&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;other-elements--abbr-sub-sup-kbd-mark&#34;&gt;Other Elements — abbr, sub, sup, kbd, mark &lt;a href=&#34;#other-elements--abbr-sub-sup-kbd-mark&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;GIF&lt;!-- raw HTML omitted --&gt; is a bitmap image format.&lt;/p&gt;
+&lt;p&gt;H&lt;!-- raw HTML omitted --&gt;2&lt;!-- raw HTML omitted --&gt;O&lt;/p&gt;
+&lt;p&gt;X&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt; + Y&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt; = Z&lt;!-- raw HTML omitted --&gt;n&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;Press &lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;CTRL&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;ALT&lt;!-- raw HTML omitted --&gt;+&lt;!-- raw HTML omitted --&gt;Delete&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt; to end the session.&lt;/p&gt;
+&lt;p&gt;Most &lt;!-- raw HTML omitted --&gt;salamanders&lt;!-- raw HTML omitted --&gt; are nocturnal, and hunt for insects, worms, and other small creatures.&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The above quote is excerpted from Rob Pike&amp;rsquo;s &lt;a href=&#34;https://www.youtube.com/watch?v=PAAkCSZUG1c&#34;&gt;talk&lt;/a&gt; during Gopherfest, November 18, 2015.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/markdown-syntax/</guid>
+      <pubDate>Mon, 11 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Rich Content</title>
+      <link>http://localhost:1313/posts/rich-content/</link>
+      <description>&lt;p&gt;Hugo ships with several &lt;a href=&#34;https://gohugo.io/content-management/shortcodes/#use-hugo-s-built-in-shortcodes&#34;&gt;Built-in Shortcodes&lt;/a&gt; for rich content, along with a &lt;a href=&#34;https://gohugo.io/about/hugo-and-gdpr/&#34;&gt;Privacy Config&lt;/a&gt; and a set of Simple Shortcodes that enable static and no-JS versions of various social media embeds.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;instagram-simple-shortcode&#34;&gt;Instagram Simple Shortcode &lt;a href=&#34;#instagram-simple-shortcode&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;youtube-privacy-enhanced-shortcode&#34;&gt;YouTube Privacy Enhanced Shortcode &lt;a href=&#34;#youtube-privacy-enhanced-shortcode&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;
+      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/ZJthWmvUzzc?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;
+    &lt;/div&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;twitter-simple-shortcode&#34;&gt;Twitter Simple Shortcode &lt;a href=&#34;#twitter-simple-shortcode&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+
+&lt;!-- raw HTML omitted --&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;vimeo-simple-shortcode&#34;&gt;Vimeo Simple Shortcode &lt;a href=&#34;#vimeo-simple-shortcode&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;style&gt;
+.__h_video {
+   position: relative;
+   padding-bottom: 56.23%;
+   height: 0;
+   overflow: hidden;
+   width: 100%;
+   background: #000;
+}
+.__h_video img {
+   width: 100%;
+   height: auto;
+   color: #000;
+}
+.__h_video .play {
+   height: 72px;
+   width: 72px;
+   left: 50%;
+   top: 50%;
+   margin-left: -36px;
+   margin-top: -36px;
+   position: absolute;
+   cursor: pointer;
+}
+&lt;/style&gt;&lt;div class=&#34;s_video_simple __h_video&#34;&gt;
+          &lt;a href=&#34;https://vimeo.com/48912912&#34; rel=&#34;noopener&#34; target=&#34;_blank&#34;&gt;
+            &lt;img src=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us&#34; srcset=&#34;https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us 1x, https://i.vimeocdn.com/video/337401969-979f0cc9f55fdf305fb8984e90d92639ec9d7ecc4c9dfbc6536e28edb43784ce-d_640?region=us 2x&#34; alt=&#34;Sing Jan Swing - Kinetic Type&#34;&gt;
+            &lt;div class=&#34;play&#34;&gt;
+              &lt;svg version=&#34;1&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34; viewBox=&#34;0 0 61 61&#34;&gt;&lt;circle cx=&#34;30.5&#34; cy=&#34;30.5&#34; r=&#34;30.5&#34; opacity=&#34;.8&#34; fill=&#34;#000&#34;&gt;&lt;/circle&gt;&lt;path d=&#34;M25.3 19.2c-2.1-1.2-3.8-.2-3.8 2.2v18.1c0 2.4 1.7 3.4 3.8 2.2l16.6-9.1c2.1-1.2 2.1-3.2 0-4.4l-16.6-9z&#34; fill=&#34;#fff&#34;&gt;&lt;/path&gt;&lt;/svg&gt;
+            &lt;/div&gt;
+          &lt;/a&gt;
+        &lt;/div&gt;</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/rich-content/</guid>
+      <pubDate>Sun, 10 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Placeholder Text</title>
+      <link>http://localhost:1313/posts/placeholder-text/</link>
+      <description>&lt;p&gt;Lorem est tota propiore conpellat pectoribus de pectora summo.&lt;/p&gt;
+&lt;p&gt;Redit teque digerit hominumque toris verebor lumina non cervice subde tollit usus habet Arctonque, furores quas nec ferunt. Quoque montibus nunc caluere tempus inhospita parcite confusaque translucet patri vestro qui optatis lumine cognoscere flos nubis! Fronde ipsamque patulos Dryopen deorum.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Exierant elisi ambit vivere dedere&lt;/li&gt;
+&lt;li&gt;Duce pollice&lt;/li&gt;
+&lt;li&gt;Eris modo&lt;/li&gt;
+&lt;li&gt;Spargitque ferrea quos palude&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Rursus nulli murmur; hastile inridet ut ab gravi sententia! Nomine potitus silentia flumen, sustinet placuit petis in dilapsa erat sunt. Atria tractus malis.&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;Comas hunc haec pietate fetum procerum dixit&lt;/li&gt;
+&lt;li&gt;Post torum vates letum Tiresia&lt;/li&gt;
+&lt;li&gt;Flumen querellas&lt;/li&gt;
+&lt;li&gt;Arcanaque montibus omnes&lt;/li&gt;
+&lt;li&gt;Quidem et&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h1 id=&#34;vagus-elidunt&#34;&gt;Vagus elidunt &lt;a href=&#34;#vagus-elidunt&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h1&gt;
+&lt;p&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;!-- raw HTML omitted --&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Canons_of_page_construction#Van_de_Graaf_canon&#34;&gt;The Van de Graaf Canon&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;mane-refeci-capiebant-unda-mulcebat&#34;&gt;Mane refeci capiebant unda mulcebat &lt;a href=&#34;#mane-refeci-capiebant-unda-mulcebat&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h2&gt;
+&lt;p&gt;Victa caducifer, malo vulnere contra dicere aurato, ludit regale, voca! Retorsit colit est profanae esse virescere furit nec; iaculi matertera et visa est, viribus. Divesque creatis, tecta novat collumque vulnus est, parvas. &lt;strong&gt;Faces illo pepulere&lt;/strong&gt; tempus adest. Tendit flamma, ab opes virum sustinet, sidus sequendo urbis.&lt;/p&gt;
+&lt;p&gt;Iubar proles corpore raptos vero auctor imperium; sed et huic: manus caeli Lelegas tu lux. Verbis obstitit intus oblectamina fixis linguisque ausus sperare Echionides cornuaque tenent clausit possit. Omnia putatur. Praeteritae refert ausus; ferebant e primus lora nutat, vici quae mea ipse. Et iter nil spectatae vulnus haerentia iuste et exercebat, sui et.&lt;/p&gt;
+&lt;p&gt;Eurytus Hector, materna ipsumque ut Politen, nec, nate, ignari, vernum cohaesit sequitur. Vel &lt;strong&gt;mitis temploque&lt;/strong&gt; vocatus, inque alis, &lt;em&gt;oculos nomen&lt;/em&gt; non silvis corpore coniunx ne displicet illa. Crescunt non unus, vidit visa quantum inmiti flumina mortis facto sic: undique a alios vincula sunt iactata abdita! Suspenderat ego fuit tendit: luna, ante urbem Propoetides &lt;strong&gt;parte&lt;/strong&gt;.&lt;/p&gt;</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/placeholder-text/</guid>
+      <pubDate>Sat, 09 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Math Typesetting</title>
+      <link>http://localhost:1313/posts/math-typesetting/</link>
+      <description>&lt;p&gt;Mathematical notation in a Hugo project can be enabled by using third party JavaScript libraries.&lt;/p&gt;
+&lt;p&gt;In this example we will be using &lt;a href=&#34;https://katex.org/&#34;&gt;KaTeX&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Create a partial under &lt;code&gt;/layouts/partials/math.html&lt;/code&gt;&lt;/li&gt;
+&lt;li&gt;Within this partial reference the &lt;a href=&#34;https://katex.org/docs/autorender.html&#34;&gt;Auto-render Extension&lt;/a&gt; or host these scripts locally.&lt;/li&gt;
+&lt;li&gt;Include the partial in your templates like so:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; &lt;span style=&#34;color:#66d9ef&#34;&gt;if&lt;/span&gt; or .Params.math .Site.Params.math &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; partial &lt;span style=&#34;color:#e6db74&#34;&gt;&amp;#34;math.html&amp;#34;&lt;/span&gt; . &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;&lt;span style=&#34;color:#f92672&#34;&gt;{{&lt;/span&gt; end &lt;span style=&#34;color:#f92672&#34;&gt;}}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;To enable KaTex globally set the parameter &lt;code&gt;math&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in a project&amp;rsquo;s configuration&lt;/li&gt;
+&lt;li&gt;To enable KaTex on a per page basis include the parameter &lt;code&gt;math: true&lt;/code&gt; in content files&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; Use the online reference of &lt;a href=&#34;https://katex.org/docs/supported.html&#34;&gt;Supported TeX Functions&lt;/a&gt;&lt;/p&gt;
+
+&lt;h3 id=&#34;examples&#34;&gt;Examples &lt;a href=&#34;#examples&#34; class=&#34;hash&#34;&gt;#&lt;/a&gt;&lt;/h3&gt;
+
+&lt;p&gt;Block math:
+$$
+\varphi = 1+\frac{1} {1+\frac{1} {1+\frac{1} {1+\cdots} } }
+$$&lt;/p&gt;</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/math-typesetting/</guid>
+      <pubDate>Fri, 08 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;
+&lt;p&gt;The &lt;a href=&#34;https://gohugo.io/functions/emojify/&#34;&gt;&lt;code&gt;emojify&lt;/code&gt;&lt;/a&gt; function can be called directly in templates or &lt;a href=&#34;https://gohugo.io/templates/shortcode-templates/#inline-shortcodes&#34;&gt;Inline Shortcodes&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;To enable emoji globally, set &lt;code&gt;enableEmoji&lt;/code&gt; to &lt;code&gt;true&lt;/code&gt; in your site&amp;rsquo;s &lt;a href=&#34;https://gohugo.io/getting-started/configuration/&#34;&gt;configuration&lt;/a&gt; and then you can type emoji shorthand codes directly in content files; e.g.&lt;/p&gt;
+&lt;!-- raw HTML omitted --&gt;
+&lt;p&gt;The &lt;a href=&#34;http://www.emoji-cheat-sheet.com/&#34;&gt;Emoji cheat sheet&lt;/a&gt; is a useful reference for emoji shorthand codes.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;N.B.&lt;/strong&gt; The above steps enable Unicode Standard emoji characters and sequences in Hugo, however the rendering of these glyphs depends on the browser and the platform. To style the emoji you can either use a third party emoji font or a font stack; e.g.&lt;/p&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-html&#34; data-lang=&#34;html&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;.emoji {
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;  font-family: Apple Color Emoji, Segoe UI Emoji, NotoColorEmoji, Segoe UI Symbol, Android Emoji, EmojiSymbols;
+&lt;/span&gt;&lt;/span&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;}&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>http://localhost:1313/posts/lorem-ipsum/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/lorem-ipsum/</guid>
+      <pubDate>Sat, 11 Mar 2017 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum sit ale natus unde</title>
+      <link>http://localhost:1313/posts/lorem-ipsum-sit-ale/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/lorem-ipsum-sit-ale/</guid>
+      <pubDate>Thu, 08 Sep 2016 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum perspiciatis unde omnis</title>
+      <link>http://localhost:1313/posts/ipsum-lore-guti-sit-volu-sit-amet/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore-guti-sit-volu-sit-amet/</guid>
+      <pubDate>Fri, 08 Jul 2016 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum magni dolores eos qui ratione voluptatem</title>
+      <link>http://localhost:1313/posts/lorem-catu-ale/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/lorem-catu-ale/</guid>
+      <pubDate>Tue, 08 Sep 2015 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum</title>
+      <link>http://localhost:1313/posts/ipsum-lore-de/</link>
+      <description></description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore-de/</guid>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum te</title>
+      <link>http://localhost:1313/posts/ipsum-lore-de-re-mo-mi/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore-de-re-mo-mi/</guid>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum ut pers unde</title>
+      <link>http://localhost:1313/posts/ipsum-lore-de-re-mo/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore-de-re-mo/</guid>
+      <pubDate>Mon, 08 Sep 2014 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum unde omnis iste</title>
+      <link>http://localhost:1313/posts/ipsum-lore-de-re/</link>
+      <description>&lt;p&gt;Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?&lt;/p&gt;
+</description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore-de-re/</guid>
+      <pubDate>Thu, 08 May 2014 00:00:00 +0000</pubDate>
+    </item>
+    
+    <item>
+      <title>Lorem ipsum tut</title>
+      <link>http://localhost:1313/posts/ipsum-lore/</link>
+      <description></description>
+      <author>ronalds.vilcins@gmail.com (Ronalds Vilcins)</author>
+      <guid>http://localhost:1313/posts/ipsum-lore/</guid>
+      <pubDate>Sun, 08 Sep 2013 00:00:00 +0000</pubDate>
+    </item>
+    
+  </channel>
+</rss>

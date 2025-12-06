@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Poesia on My New Hugo Site</title>
+    <link>http://localhost:1313/tags/poesia/</link>
+    <description>Recent content in Poesia on My New Hugo Site</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 11 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/poesia/atom.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>20241</title>
+      <link>http://localhost:1313/poemas/isso-%C3%A9-apenas-um-teste./</link>
+      <pubDate>Sat, 11 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/poemas/isso-%C3%A9-apenas-um-teste./</guid>
+      <description>&lt;p&gt;Um breve momento, demudado&lt;br&gt;&#xA;no eterno de nossas almas.&#xA;Tal como memória vesuviana,&lt;br&gt;&#xA;esculpida no tempo caldeado&lt;/p&gt;&#xA;&lt;p&gt;Sal que ergue-se vívido&lt;br&gt;&#xA;da tua fronte, eleva, aprofunda;&#xA;Desfez-se da terra, fez morada&#xA;no Ser, longe das penumbras.&lt;/p&gt;&#xA;&lt;p&gt;És mármore, nunca vencido,&#xA;por um destino já percorrido.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
